@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e639185c.css",
+    "main.js": "/static/js/main.0c6f4727.js",
+    "static/css/843.ddfaa26a.chunk.css": "/static/css/843.ddfaa26a.chunk.css",
+    "static/js/843.28160562.chunk.js": "/static/js/843.28160562.chunk.js",
+    "static/css/59.1f8303d9.chunk.css": "/static/css/59.1f8303d9.chunk.css",
+    "static/js/59.c0a3313d.chunk.js": "/static/js/59.c0a3313d.chunk.js",
+    "static/css/649.871875d1.chunk.css": "/static/css/649.871875d1.chunk.css",
+    "static/js/649.348e22e6.chunk.js": "/static/js/649.348e22e6.chunk.js",
+    "static/css/593.bc659d1a.chunk.css": "/static/css/593.bc659d1a.chunk.css",
+    "static/js/593.2083a44b.chunk.js": "/static/js/593.2083a44b.chunk.js",
+    "static/css/783.29755bb7.chunk.css": "/static/css/783.29755bb7.chunk.css",
+    "static/js/783.80a1bea8.chunk.js": "/static/js/783.80a1bea8.chunk.js",
+    "static/css/178.f75ed3a8.chunk.css": "/static/css/178.f75ed3a8.chunk.css",
+    "static/js/178.d6396e7b.chunk.js": "/static/js/178.d6396e7b.chunk.js",
+    "static/js/787.1c32d344.chunk.js": "/static/js/787.1c32d344.chunk.js",
+    "static/js/790.9ac6d4fc.chunk.js": "/static/js/790.9ac6d4fc.chunk.js",
+    "static/js/443.5bf66796.chunk.js": "/static/js/443.5bf66796.chunk.js",
+    "static/js/363.bf057acf.chunk.js": "/static/js/363.bf057acf.chunk.js",
+    "static/js/686.55a9af4c.chunk.js": "/static/js/686.55a9af4c.chunk.js",
+    "static/js/333.aaf46d24.chunk.js": "/static/js/333.aaf46d24.chunk.js",
+    "static/js/815.fa97e00a.chunk.js": "/static/js/815.fa97e00a.chunk.js",
+    "static/js/538.d9e63175.chunk.js": "/static/js/538.d9e63175.chunk.js",
+    "static/js/638.1eb4eb61.chunk.js": "/static/js/638.1eb4eb61.chunk.js",
+    "static/media/bg.jpg": "/static/media/bg.1774d5aab37acb2d213f.jpg",
+    "static/media/FZMIAOWUJW.TTF": "/static/media/FZMIAOWUJW.863d0006edccba7118b6.TTF",
+    "static/media/avatar.png": "/static/media/avatar.78098c5f3e0ad78abafa.png",
+    "static/media/default.png": "/static/media/default.6fd831794cea659d480f.png",
+    "static/media/github.svg": "/static/media/github.3c903c66b2c5334c8c0b80567c4ea422.svg",
+    "index.html": "/index.html"
+  },
+  "entrypoints": [
+    "static/css/main.e639185c.css",
+    "static/js/main.0c6f4727.js"
+  ]
+}

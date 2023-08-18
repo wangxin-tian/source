@@ -11,7 +11,6 @@ const common_1 = require("@nestjs/common");
 const jwt_1 = require("./tools/jwt");
 let AppMiddleware = exports.AppMiddleware = class AppMiddleware {
     use(req, res, next) {
-        console.log(req);
         const token = req.headers['authorization']?.split(' ')[1];
         req._id = false;
         if (token) {
